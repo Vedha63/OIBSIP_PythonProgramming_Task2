@@ -1,26 +1,18 @@
-# Random Password Generator (Python)
-# Description
-This project is a Random Password Generator developed using Python. 
-It generates secure and random passwords based on user requirements. 
-The program allows users to generate strong passwords containing letters, numbers, and special characters.
+# Random Password Generator
 
-# Features
-- Generates secure random passwords
-- Includes letters, numbers, and special characters
-- User-friendly command line interface
-- Helps improve password security
+## Objective
+To create a Random Password Generator that generates strong and secure passwords.
 
-# Technologies Used
+## Steps Performed
+- Took password length input from user.
+- Used random module for character selection.
+- Combined letters, numbers, and special characters.
+- Generated secure random password.
+
+## Tools Used
 - Python
-- Random module
-- String module
+- Random Module
+- VS Code
 
-# How to Run
-1. Install Python
-2. Run the script using:
-   python password_generator.py
-
-# Author
-Vedha Sri  
-Python Development Internship  
-Oasis Infobyte
+## Outcome
+Successfully developed a password generator capable of creating secure and random passwords instantly.
